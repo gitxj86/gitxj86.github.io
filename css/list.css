@@ -1,0 +1,23 @@
+@import url("css.css");
+.banner1{width:1003px; height:auto; margin:0px auto;}
+.cont{width:1003px; height:auto; margin:0px auto; background:#FFFFFF; padding-top:10px;}
+.conleft{width:207px; height:auto; float:left; padding-left:10px; padding-right:10px;}
+.xxgk{width:207px; height:auto; margin-top:0px;}
+.xxgk h3{width:187px; height:34px; background:#134687; padding-left:20px; line-height:34px; font-size:14px; color:#F0F0F2;}
+.xxgk ul{width:205px; height:auto; border:1px #D7D7D7 solid; border-top:0px; margin-top:0px;}
+.xxgk ul li{width:165px; height:35px; line-height:35px; margin:0px auto; overflow:hidden; padding-left:40px; background:url(../images/list_left_bg.jpg) no-repeat;}
+.xxgk ul li a{color:#5B5B5B; font-size:14px; text-decoration:none;}
+.xxgk ul li a:hover{color:#134687; font-size:14px; font-weight:bold; text-decoration:none;}
+.lefttu{width:207px; height:auto; margin-top:20px;}
+.lefttu ul{width:207px; height:auto;}
+.lefttu ul li{width:207px; height:100px; line-height:100px;}
+.conright{width:776px; height:auto; float:right;}
+.dqwz{width:755px; height:30px; line-height:30px; border-bottom:1px #9F9F9F solid; text-align:right; color:#696363; font-size:12px;}
+.dqwz a{color:#696363; font-size:12px; text-decoration:none;}
+.dqwz a:hover{color:#FF0000; text-decoration:underline;}
+.dqwz span{float:left; margin-left:10px; background:url(../images/dqwz_bg.jpg) no-repeat left; padding-left:15px; color:#696363; font-size:14px; font-weight:bold; line-height:30px;}
+.context{width:755px; height:auto; margin:5px auto; color:#5B5B5B; font-size:12px; line-height:28px;min-height:450px; height:100%;_height:450px;}
+.context p{text-indent:2em;}
+
+.conbot{width:1003px; height:74px; margin-top:0px; margin:0px auto;}
+
